@@ -1,0 +1,13 @@
+.prime , tr {font-family: calibri; border-collapse: collapse;}
+.th {font-weight: bold; border: 3px solid black}
+.debit {color: red; text-align: center; border: 1px solid black}
+.credit {color: lawngreen; text-align: center; width: 12%; border: 1px solid black}
+.total {border: 3px solid black}
+.endtotal {text-align: center; font-weight: bold}
+.libel {text-align: center; width: 55%; border: 1px solid black}
+.dateo {text-align: center; width:13%; border: 1px solid black}
+.td {border: 3px solid black}
+.debita {text-align: center; border: 1px solid black}
+.credita {text-align: center; width: 12%; border: 1px solid black}
+.ptotals {text-align: center; border: 1px solid black}
+.fibar {border: 3px solid black}

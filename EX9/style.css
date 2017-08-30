@@ -1,0 +1,5 @@
+p {
+    font-family: Arial;
+    font-size: 15px;
+    text-decoration: underline;
+    font-weight: bold; border-style: groove; border-width: 2px; border-color: red; border-bottom: 8px solid green; border-right: 8px solid green; }
