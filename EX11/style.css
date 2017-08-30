@@ -1,6 +1,9 @@
-.pair { font-family: "Segoe UI Semilight"; font-size: 27px; background-color:darkseagreen; border-width: 1px solid red; border-style: outset; border-color:darkseagreen}
-.imp { font-family: "Segoe UI Semilight"; font-size: 27px; background-color:rgb(176, 178, 243); border-width: 1px solid red; border-style: outset; border-color:rgb(176, 178, 243)}
-.self { font-family: "Segoe UI Semilight"; font-size: 27px; background-color: lightcoral; border-width: 1px solid red; border-style: outset; border-color:red}
-.start { font-family: "Segoe UI Semilight"; font-size: 27px; background-color: beige; border-width: 1px solid red; border-style: outset; border-color:beige}
+.pair { background-color:darkseagreen; border-width: 1px solid red; border-style: outset; border-color:darkseagreen}
+.imp { background-color:rgb(176, 178, 243); border-width: 1px solid red; border-style: outset; border-color:rgb(176, 178, 243)}
+.self { background-color: lightcoral; border-width: 1px solid red; border-style: outset; border-color:red}
+.start { background-color: beige; border-width: 1px solid red; border-style: outset; border-color:beige}
 .bigo { border-style: ridge; background-color: lightcyan; border-width: 1px solid lightcyan }
 .div {width: 40%}
+.pair , .imp , .self , .start {text-align: center;font-weight: bold;  font-size: 27px; font-family: Aria;}
+a { text-decoration: none; color:darkblue;}
+a:visited {color:darkred; text-decoration: line-through;}
